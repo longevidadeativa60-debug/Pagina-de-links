@@ -1,3 +1,0 @@
-*script*
-{ icon: "Youtube", href: "#", label: "YouTube", color: "gradient-youtube" },
-{ icon: "Send", href: "#", label: "Telegram", color: "gradient-telegram" },
